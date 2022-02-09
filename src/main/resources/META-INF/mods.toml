@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[37,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="brandonyafruitmod"
+version="1.0.0"
+displayName="brandon-ya-fruit-mod"
+credits="none"
+displayURL="https://brandonbr1.github.io/"
+authors="Brandonbr1/Brandonmohammed666"
+description='''
+adds new fruit to the game!
+'''
+
+[[dependencies.brandonyafruitmod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.17.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

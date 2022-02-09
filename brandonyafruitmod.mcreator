@@ -1,0 +1,160 @@
+{
+  "mod_elements": [
+    {
+      "name": "Eggplant",
+      "type": "food",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eggplant"
+    },
+    {
+      "name": "Banana",
+      "type": "food",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "banana"
+    },
+    {
+      "name": "WaterMellon",
+      "type": "food",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "water_mellon"
+    },
+    {
+      "name": "Grapes",
+      "type": "food",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "grapes"
+    },
+    {
+      "name": "Oranges",
+      "type": "food",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oranges"
+    },
+    {
+      "name": "Lettice",
+      "type": "food",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lettice"
+    },
+    {
+      "name": "Avacado",
+      "type": "food",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "avacado"
+    },
+    {
+      "name": "Tomato",
+      "type": "food",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tomato"
+    },
+    {
+      "name": "Kiwi",
+      "type": "food",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kiwi"
+    },
+    {
+      "name": "BuddhasHand",
+      "type": "food",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "buddhas_hand"
+    },
+    {
+      "name": "OrangeLeaves",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orange_leaves"
+    },
+    {
+      "name": "TomatoLeaves",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tomato_leaves"
+    },
+    {
+      "name": "GrapesLeaves",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "grapes_leaves"
+    },
+    {
+      "name": "BananaLeaves",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "banana_leaves"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.brandonyafruitmod.tomato_leaves": "Tomato Leaves",
+      "item.brandonyafruitmod.banana": "Banana",
+      "block.brandonyafruitmod.grapes_leaves": "Grapes Leaves",
+      "item.brandonyafruitmod.eggplant": "Eggplant",
+      "block.brandonyafruitmod.banana_leaves": "Banana Leaves",
+      "item.brandonyafruitmod.avacado": "Avacado",
+      "item.brandonyafruitmod.grapes": "Grapes",
+      "item.brandonyafruitmod.kiwi": "Kiwi",
+      "item.brandonyafruitmod.oranges": "Oranges",
+      "item.brandonyafruitmod.water_mellon": "Water Mellon",
+      "item.brandonyafruitmod.tomato": "Tomato",
+      "item.brandonyafruitmod.lettice": "Lettice",
+      "block.brandonyafruitmod.orange_leaves": "Orange Leaves",
+      "item.brandonyafruitmod.buddhas_hand": "Buddhas Hand"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "brandonyafruitmod",
+    "modName": "brandon-ya-fruit-mod",
+    "version": "1.0.0",
+    "description": "adds new fruit to the game!",
+    "author": "Brandonbr1/Brandonmohammed666",
+    "websiteURL": "https://brandonbr1.github.io/",
+    "license": "All Rights Reserved",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.17.1",
+    "credits": "none",
+    "modElementsPackage": "io.github.brandonbr1.brandonyafruitmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100354000
+}

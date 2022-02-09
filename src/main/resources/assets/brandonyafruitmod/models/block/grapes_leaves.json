@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "brandonyafruitmod:blocks/grapes_leaves",
+    "particle": "brandonyafruitmod:blocks/grapes_leaves"
+  }
+}
